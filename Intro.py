@@ -1,2 +1,2 @@
 import streamlit as st
-st.tittle("app de prueba") 
+st.title("app de prueba") 
